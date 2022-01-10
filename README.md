@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @georgedotexe
+- 👀 I’m interested in music, game design and Norwegian
+- 🌱 I’m currently learning Full-Stack Web Development and Norwegina in my spare time
+- 💞️ I’m looking to collaborate on any projects, the more you do the more you learn
+- 📫 Reach me via email - ggoodall12@gmail.com - or find me on LinkedIn - https://www.linkedin.com/in/george-goodall-95b4461b7
